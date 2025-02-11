@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohammad Reza Pararin
 
-👨‍💻 **Freelance Python & AI Specialist | Hardware Design & PCB Expert**
+👨‍💻 **Freelance Python & AI  | Hardware Design & PCB Expert**
 
 I'm a freelance developer with a passion for Python programming and Artificial Intelligence, helping businesses create efficient, tested, and maintainable products. My skills extend to hardware design and PCB development, allowing me to bridge the gap between software and electronics.
 
